@@ -1,6 +1,6 @@
 <div align="center">
 
-![LEDFACIL](https://github.com/LEDFACIL/LEDFACIL/blob/main/profile.png)
+![LEDFACIL](https://github.com/LEDFACIL/LEDFACIL/blob/main/Banner.png)
 
 </div>
 
