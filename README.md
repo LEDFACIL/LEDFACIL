@@ -1,7 +1,5 @@
 <div align="center">
 
-![LEDFACIL](https://github.com/LEDFACIL/LEDFACIL/blob/main/Banner.png)
-
 </div>
 
 <div id="header" align="center">
