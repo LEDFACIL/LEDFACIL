@@ -5,13 +5,13 @@
 </div>
 
 <div id="header" align="center">
-    <h2 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.LEDFACIL.com.ar" target="_blank">★LEDFACIL★</a> y <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> Electrónica</h2>
-    <h3 align="center">Bienvenidos a mi humilde espacio en GitHub!</h3>
+    <h2 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> Electrónica</h2>
+    <h3 align="center">Bienvenidos a mi sencillo espacio en GitHub!</h3>
     <h4>Aquí encontrarás repositorios con packs de recursos con los que trabajo en mis videos y tutoriales.</h4>
     <h4>🔥💥⚡Esquemáticos - Circuitos⚡💥🔥</h4>
-    <h4>🔥💥⚡PCBs - Circuitos impresos⚡💥🔥</h4>    
-    <h4>🔥💥⚡Detalles, explicaciones y programas⚡💥🔥</h4>
-    <h4>🔥💥⚡Microcontroladores PIC de Microchip & Espressif ESP32⚡💥🔥</h4>
+    <h4>🔥💥⚡Código de software y firmware⚡💥🔥</h4>    
+    <h4>🔥💥⚡Detalles, explicaciones y datos sobre experimentos⚡💥🔥</h4>
+    <h4>🔥💥⚡Microcontroladores Espressif ESP32, Atmel, ST, PIC⚡💥🔥</h4>
     <h5>  </h5>
 </div>
 
