@@ -5,7 +5,7 @@
 </div>
 
 <div id="header" align="center">
-    <h2 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> Electrónica</h2>
+    <h2 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> Electrónica y "LEDFACIL"</h2>
     <h3 align="center">Bienvenidos a mi sencillo espacio en GitHub!</h3>
     <h4>Aquí encontrarás repositorios con packs de recursos con los que trabajo en mis videos y tutoriales.</h4>
     <h4>🔥💥⚡Esquemáticos - Circuitos⚡💥🔥</h4>
