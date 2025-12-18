@@ -4,15 +4,15 @@
 
 </div>
 
-<div id="header" align="center">
-    <h2 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> y <a href="https://www.youtube.com/@ledfacil">LEDFACIL</a>
-    <h3 align="center">Bienvenidos a mi sencillo espacio en GitHub!</h3>
-    <h4>Aquí encontrarás repositorios con packs de recursos con los que trabajo en mis videos y tutoriales.</h4>
-    <h4>🔥💥⚡Esquemáticos - Circuitos⚡💥🔥</h4>
-    <h4>🔥💥⚡Código de software y firmware⚡💥🔥</h4>    
-    <h4>🔥💥⚡Detalles, explicaciones y datos sobre experimentos⚡💥🔥</h4>
-    <h4>🔥💥⚡Microcontroladores Espressif ESP32, Atmel, ST, PIC⚡💥🔥</h4>
-    <h5>  </h5>
+<div id="header" align="left">
+    <h1 align="center"> 👋 Hola, soy Damián G. Lasso de <a href="https://www.Lasso-Tech.com" target="_blank">Lasso-Tech</a> y <a href="https://www.youtube.com/@ledfacil">LEDFACIL</a>
+    <h2 align="center">Este es mi sencillo espacio en GitHub!</h3>
+    <h2 align="center">Encontrarás recursos con los que trabajo en mis videos y tutoriales.</h3>
+    <h3>📌Esquemáticos - Circuitos / experimentos electrónicos</h4>
+    <h3>📌Código de software y firmware</h4>    
+    <h3>📌Detalles, explicaciones y datos sobre mis experiencias</h4>
+    <h3>📌Trabajos con microcontroladores; Espressif ESP32, Microchip PICs y Atmel, ST STM32...</h4>
+    <h3>  </h3>
 </div>
 
 <div align="center">
