@@ -1,5 +1,5 @@
 # LEDFACIL & Lasso-Tech
-## 👤 Damián G. Lasso
+## 🤓 Damián G. Lasso
 
 Utilizo este sencillo espacio para compartir recursos, experimentos y trabajos que desarrollo como parte de mi actividad profesional y recreativa.
 
