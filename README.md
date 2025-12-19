@@ -9,7 +9,7 @@ Encontrarás repositorios con:
 - **Experimentos y proyectos personales** en desarrollo
 - **Código fuente** de herramientas y aplicaciones demostrativas
 
-🙏 Un especial agradecimiento a [**PCBWay**](https://pcbway.com/g/73SSC3) por su apoyo en el desarrollo de mis proyectos.  
+🙏 Un especial agradecimiento a [**PCBWay**](https://pcbway.com/g/73SSC3) por su apoyo en el desarrollo de algunos de mis proyectos.  
 
 ## 🔗 Me encontrarás por ahí...
 
