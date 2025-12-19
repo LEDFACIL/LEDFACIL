@@ -1,15 +1,8 @@
-# Damián G. Lasso | LASSO-TECH & LEDFACIL
+# LEDFACIL & Lasso-Tech
 
-## 👤 Perfil
+## 👤 Damián G. Lasso
 
-Soy **Damián G. Lasso**, creador de **LASSO-TECH** y **LEDFACIL**. Este espacio en GitHub alberga recursos, experimentos y trabajos técnicos que desarrollo como parte de mi actividad profesional y de divulgación.
-
-- **🌐 LASSO-TECH**: [Lasso-Tech.com](https://lasso-tech.com/) - Electrónica aplicada y soluciones.
-- **🎥 LEDFACIL**: [YouTube @ledfacil](https://www.youtube.com/@ledfacil) - Experimentos con electrónica y programación.
-  
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMU_bRGkcB01G7RzBmaVHNg)](https://www.youtube.com/channel/UCMU_bRGkcB01G7RzBmaVHNg/videos?sub_confirmation=1)
-
-## 📂 Contenido
+Utilizo este sencillo espacio para compartir recursos, experimentos y trabajos que desarrollo como parte de mi actividad profesional y recreativa.
 
 Encontrarás repositorios con:
 - **Recursos utilizados** en mis videos de YouTube y tutoriales
@@ -17,20 +10,20 @@ Encontrarás repositorios con:
 - **Experimentos y proyectos personales** en desarrollo
 - **Código fuente** de herramientas y aplicaciones demostrativas
 
-## 🙏 Agradecimientos
+🙏 Un especial agradecimiento a [**PCBWay**](https://pcbway.com/g/73SSC3) por su apoyo en el desarrollo de mis proyectos.  
 
-Un especial agradecimiento a **PCBWay** por su apoyo en el desarrollo de mis proyectos.  
-[PCBWay](https://pcbway.com/g/73SSC3) - *"Muchas gracias PCBWay por apoyarme en mis proyectos"*
+## 🔗 Me encontrarás por ahí...
 
-## 🔗 Conecta
-
-- **Website**: [Lasso-Tech.com](https://lasso-tech.com/)
-- **YouTube**: [@ledfacil](https://www.youtube.com/@ledfacil)
-- **Facebook group 1**: [https://www.facebook.com/groups/programaciondemicros](https://www.facebook.com/groups/programaciondemicros)
-- **Facebook group 2**: [https://www.facebook.com/groups/ledfacil](https://www.facebook.com/groups/ledfacil)
-- **Instagram**: [https://www.youtube.com/@ledfacil](https://www.instagram.com/ledfacil)
+- **Website 1**: [Lasso-Tech.com](https://lasso-tech.com/)
+- **Website 2**: [Ledfacil.com.ar](https://ledfacil.com.ar/)
+- **YouTube 1**: [@ledfacil](https://www.youtube.com/@ledfacil) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCMU_bRGkcB01G7RzBmaVHNg)](https://www.youtube.com/channel/UCMU_bRGkcB01G7RzBmaVHNg/videos?sub_confirmation=1)
+- **YouTube 2**: [@lasso-tech](https://www.youtube.com/@lasso-tech) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfcvUbWBpqIT_VXaRJuomBA)](https://www.youtube.com/channel/UCfcvUbWBpqIT_VXaRJuomBA/videos?sub_confirmation=1) 
+- **Facebook grupo 1**: [https://www.facebook.com/groups/programaciondemicros](https://www.facebook.com/groups/programaciondemicros)
+- **Facebook grupo 2**: [https://www.facebook.com/groups/ledfacil](https://www.facebook.com/groups/ledfacil)
+- **Instagram 1**: [@ledfacil](https://www.instagram.com/ledfacil)
+- **Instagram 2**: [@lasso.tech](https://www.instagram.com/lasso.tech)
 - **Discord**: [https://discord.gg/SgDr9aS46R](https://discord.gg/SgDr9aS46R)
 
 ---
 
-*Este repositorio se actualiza eventualmente con nuevos recursos y proyectos.*
+*Este repositorio eventualmente se actualiza con nuevos recursos y proyectos.*
