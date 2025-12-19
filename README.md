@@ -1,4 +1,4 @@
-# LEDFACIL & Lasso-Tech
+# LEDFACIL & Lasso-Tech 
 ## 🤓 Damián G. Lasso
 
 Utilizo este sencillo espacio para compartir recursos, experimentos y trabajos que desarrollo como parte de mi actividad profesional y recreativa.
@@ -22,7 +22,7 @@ Encontrarás repositorios con:
 - **Instagram 1**: [@ledfacil](https://www.instagram.com/ledfacil)
 - **Instagram 2**: [@lasso.tech](https://www.instagram.com/lasso.tech)
 - **Discord**: [https://discord.gg/SgDr9aS46R](https://discord.gg/SgDr9aS46R)
-- **LinkedIn**: [My profile](https://www.linkedin.com/in/dami%C3%A1n-guillermo-lasso-17859196/)
+- **LinkedIn**: [Damián G. Lasso](https://www.linkedin.com/in/dami%C3%A1n-guillermo-lasso-17859196/)
 
 ---
 
