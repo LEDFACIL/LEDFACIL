@@ -19,6 +19,7 @@ Encontrarás repositorios con:
 - **YouTube 2**: [@lasso-tech](https://www.youtube.com/@lasso-tech) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfcvUbWBpqIT_VXaRJuomBA)](https://www.youtube.com/channel/UCfcvUbWBpqIT_VXaRJuomBA/videos?sub_confirmation=1) 
 - **Facebook grupo 1**: [https://www.facebook.com/groups/programaciondemicros](https://www.facebook.com/groups/programaciondemicros)
 - **Facebook grupo 2**: [https://www.facebook.com/groups/ledfacil](https://www.facebook.com/groups/ledfacil)
+- **Facebook página**: [https://www.facebook.com/LEDFACIL](https://www.facebook.com/LEDFACIL)
 - **Instagram 1**: [@ledfacil](https://www.instagram.com/ledfacil)
 - **Instagram 2**: [@lasso.tech](https://www.instagram.com/lasso.tech)
 - **Discord**: [https://discord.gg/SgDr9aS46R](https://discord.gg/SgDr9aS46R)
@@ -26,4 +27,4 @@ Encontrarás repositorios con:
 
 ---
 
-*Este repositorio eventualmente se actualiza con nuevos recursos y proyectos.*
+*Este espacio eventualmente es actualizado con nuevos recursos y proyectos.*
